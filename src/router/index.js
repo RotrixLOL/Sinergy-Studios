@@ -30,6 +30,13 @@ const routes = [
     component: function () {
       return import( /* webpackChunkName: "about" */ '../views/Login.vue')
     }
+  },
+  {
+    path: '/googleb39a2eef68c31e7f.html',
+    name: 'googleb39a2eef68c31e7f.html',
+    component: function () {
+      return import( /* webpackChunkName: "about" */ '../views/googleb39a2eef68c31e7f.html')
+    }
   }
 ]
 
